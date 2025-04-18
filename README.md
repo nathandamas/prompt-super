@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/968695322.svg)](https://doi.org/10.5281/zenodo.15242949)
 
 # Prompt Super (Generic Multidisciplinary Version)
 
