@@ -25,8 +25,8 @@ the attached article for submission, fully complying with 100% of the guidelines
 ╔══════════════════════════════════════════════════════════════════════╗
 ║ 2 ▸ MAIN INPUTS                                                     ║
 ╚══════════════════════════════════════════════════════════════════════╝
-<ARTIGO_ORIGINAL> … </ARTIGO_ORIGINAL> — full manuscript.  
-<GUIDELINES_DOC> … </GUIDELINES_DOC> — PDF/DOCX/HTML with journal instructions (optional).  
+<ORIGINAL_ARTICLE> … </ORIGINAL_ARTICLE> — full manuscript.  
+<GUIDELINES_FILE> … </GUIDELINES_FILE> — PDF/DOCX/HTML with journal instructions (optional).  
 
 ╔══════════════════════════════════════════════════════════════════════╗
 ║ A ▸ META-INFORMATION AND IDENTIFIERS                                ║
