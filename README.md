@@ -82,4 +82,4 @@ We welcome pull requests — please read `CONTRIBUTING.md` first.
 
 ---
 
-© 2025 Your Name
+© 2025 Nathan Damas
