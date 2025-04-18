@@ -9,7 +9,7 @@ It is discipline‑agnostic: just fill in the `⚙️[[…]]` placeholders and p
 the prompt into ChatGPT (or any LLM).
 
 <p align="center">
-  <img src="docs/img/logo_prompt_super.svg" width="220" alt="Prompt Super logo"/>
+  <img src="docs/img/logo_prompt_super.png" width="220" alt="Prompt Super logo"/>
 </p>
 
 ---
