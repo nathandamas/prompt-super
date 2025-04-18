@@ -5,7 +5,7 @@ title: "Prompt Super: a comprehensive LLM prompt template for academic writing"
 version: "1.0.0"
 date-released: "2025-04-18"
 authors:
-  - family-names: Your
-    given-names: Name
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-ci-url: "https://github.com/YOUR-USERNAME/prompt-super"
+  - family-names: Damas
+    given-names: Nathan
+    orcid: "https://orcid.org/0000-0002-1469-2867"
+ci-url: "https://github.com/nathandamas/prompt-super"
