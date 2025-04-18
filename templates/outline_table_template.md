@@ -1,0 +1,2 @@
+| Section | Estimated words | Notes |
+|---------|-----------------|-------|

@@ -1,0 +1,11 @@
+
+cff-version: 1.2.0
+message: "If you use this prompt, please cite it as below."
+title: "Prompt Super: a comprehensive LLM prompt template for academic writing"
+version: "1.0.0"
+date-released: "2025-04-18"
+authors:
+  - family-names: Your
+    given-names: Name
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+ci-url: "https://github.com/YOUR-USERNAME/prompt-super"
